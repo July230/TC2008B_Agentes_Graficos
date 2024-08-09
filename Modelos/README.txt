@@ -1,1 +1,1 @@
-# Este es el repositorio para el curso de Multiagentes y Graficos computacionales
+Este es el repositorio para el curso de Multiagentes y Graficos computacionales
