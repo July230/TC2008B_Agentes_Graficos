@@ -1,0 +1,6 @@
+newmtl Color
+Ka 0.0 0.0 0.0
+Kd 255.0 0.5 0.0 
+
+# Cantidad del ambiente
+# Difusion de la reflexion de la luz
